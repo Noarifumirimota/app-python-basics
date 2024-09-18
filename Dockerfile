@@ -7,4 +7,4 @@ COPY requirements.txt ./
 
 COPY . .
 
-CMD [ "python", "Print.py" ]
+CMD [ "python", "Variables.py" ]
