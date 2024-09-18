@@ -1,0 +1,6 @@
+docker build -t my-python-app .
+docker run -it --rm --name
+
+For GutBash
+
+docker build -t my-python-app . && docker run -it --rm my-python-app
