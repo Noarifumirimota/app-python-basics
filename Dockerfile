@@ -7,4 +7,4 @@ COPY requirements.txt ./
 
 COPY . .
 
-CMD [ "python", "Variables.py" ]
+CMD [ "python", "TablesAandLists.py" ]
