@@ -17,3 +17,5 @@ arr = np.zeros((20,20))
 
 print('\n')
 print(arr)
+
+print(L4[1],[2])
